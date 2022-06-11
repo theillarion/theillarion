@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![glashli's 42 stats](https://badge42.vercel.app/api/v2/cl4a7vn2f009509mklev0aqoj/stats?cursusId=21&coalitionId=101)](https://github.com/JaeSeoKim/badge42)
+[![glashli's 42 stats](https://badge42.vercel.app/api/v2/cl4a7vn2f009509mklev0aqoj/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
